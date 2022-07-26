@@ -2,7 +2,7 @@
 created a Jarvis AI Assistance using Python
 
 
-# What all can do this in Single command
+# What all it can do, in Single command
 
 # open google, vs code, youtube
 # command: open google
